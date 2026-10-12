@@ -1,9 +1,7 @@
 # BillCheck (Medical Bill & Insurance Responsibility Audit)
 
 - **Live Deployed Application:** [Insert Vercel URL]
-- **Source Code Repository:** [Insert GitHub URL]
-
----
+- **Source Code Repository:** [https://github.com/thechokshi/BillCheck](https://github.com/thechokshi/BillCheck)
 
 ---
 
@@ -116,7 +114,7 @@ To deliver a working, bug-free core within the take-home constraint, the followi
 
 ### 1. Clone & Install
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/thechokshi/BillCheck.git
 cd BillCheck
 npm install
 ```
