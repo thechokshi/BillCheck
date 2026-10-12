@@ -1,6 +1,6 @@
 # BillCheck (Medical Bill & Insurance Responsibility Audit)
 
-- **Live Deployed Application:** [Insert Vercel URL]
+- **Live Deployed Application:** [https://billcheck-seven.vercel.app/](https://billcheck-seven.vercel.app/)
 - **Source Code Repository:** [https://github.com/thechokshi/BillCheck](https://github.com/thechokshi/BillCheck)
 
 ---
